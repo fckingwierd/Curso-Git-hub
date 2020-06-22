@@ -1,0 +1,14 @@
+En esta clase conocemos que es bitcoin y la concepción de Satochis. También conoceremos un poco más sobre su funcionamiento.
+
+Bitcoin fue creado en el 2008 por Satoshi Nakamoto. Un bitcoin es divisible hasta en 8 decimales. Los centavos del bitcoin son conocidos como Satochis. Bitcoin nace como una protesta a la moneda tradicional y a las transacciones bancarias.
+
+Algunas características de Bitcoin son:
+
+No permite doble gasto
+Sin riesgo de terceros
+Costo insignificante
+Veloz
+Sin derecho de admisión
+Internacional
+Sin confiscación posible
+Limitado
