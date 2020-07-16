@@ -38,3 +38,6 @@ Check = Se asegura que el valor en la columna cumpla con la condicion dada
 Default = Coloca un valor por defecto cuando no hay un valor especificado
 Index = Se crea por columnas para crear busquedas mas rapidas
 NO REPETIR CAMPOS
+NO REPETIR CLAVES
+lOS CAMPOS QUE NO SON CLAVE NO TIENEN QUE TENER DEPENDENCIA 
+CAMPOS MULTIVALEADOS SE IDENTIFICAN POR CLAVE UNICA 
