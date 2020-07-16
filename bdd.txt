@@ -1,1 +1,11 @@
-Base de datos
+             Base de datos
+Entidades son objetos reales o virtuales, los cuales pueden ser muchos.
+tienen sus propios atributos, los cuales pueden ser multivaluados (encerrados en dos circulos).
+Existen las entidades debiles, las cuales dependen de otras.
+             Relaciones:
+relacion:Hay dos entidades que se unen mediante una relacion, que se encierra en un rombo.
+Cardinalidad: 
+1 a 1 : Un usuario tiene datos de telefono, un los datos de telefono tienen a un solo usuario
+0 a 1 : Un usuario tiene una sesion actual, pero cuando el usuario se va la sesion sigue estando
+1 a N: Una persona puede tener muchos automoviles, pero un automovil no puede tener muchas personas
+0 a N: Un paciente puede tener una habitacion de hospital, cuando el paciente se va la habitacion sigue existiendo
