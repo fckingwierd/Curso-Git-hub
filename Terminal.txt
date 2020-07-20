@@ -1,0 +1,22 @@
+Comandos:
+cp = copiar archivos 
+rm = eliminar archivos
+mv = mueve archirvos entre directorios, el "." significa hacia el directorio actual:"mv 'carpeta de pruebas'/carpetadeprueba.txt .
+rmdir = borra directorios
+Ordena los archivos por fecha de modificación:
+> ls -t
+Ordena elementos primero por nombre y después por extensión:
+> ls -x
+Ordena los elementos primero por extensión y luego por nombre:
+> ls -X
+Muestra toda la información: usuario, grupo, permisos, tamaño, fecha y hora de creación.
+> ls -l
+Muestra la misma información que ls -l pero con las unidades de tamaño en KB, MB:
+> ls -lh
+Muestra el contenido de todos los subdirectorios de forma recursiva:
+> ls -R
+Ordena los resultados por tamaño de archivo:
+> ls -S
+DOS PUNTOS X PARA GUARDAR Y SALIR, DOS PUNTOS PARA ENTRAR A COMANDOS, I PARA EDITAR TEXTO
+head =
+tail = 
