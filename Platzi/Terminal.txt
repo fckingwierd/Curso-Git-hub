@@ -1,0 +1,125 @@
+vComandos:
+cp = copiar archivos 
+rm = eliminar archivos
+mv = mueve archirvos entre directorios, el "." significa hacia el directorio actual:"mv 'carpeta de pruebas'/carpetadeprueba.txt .
+rmdir = borra directorios
+Ordena los archivos por fecha de modificación:
+> ls -t
+Ordena elementos primero por nombre y después por extensión:
+> ls -x
+Ordena los elementos primero por extensión y luego por nombre:
+> ls -X
+Muestra toda la información: usuario, grupo, permisos, tamaño, fecha y hora de creación.
+> ls -l
+Muestra la misma información que ls -l pero con las unidades de tamaño en KB, MB:
+> ls -lh
+Muestra el contenido de todos los subdirectorios de forma recursiva:
+> ls -R
+Ordena los resultados por tamaño de archivo:
+> ls -S
+DOS PUNTOS X PARA GUARDAR Y SALIR, DOS PUNTOS PARA ENTRAR A COMANDOS, I PARA EDITAR TEXTO
+En clases anteriores estudiamos cómo crear y organizar nuestras carpetas. Ahora vamos a trabajar archivos que, por supuesto, debemos guardar en estos directorios que previamente creamos.
+
+touch: nos permite crear archivos.
+> touch archivo.txt
+cat: nos permite visualizar todo el contenido de nuestros archivos.
+> cat archivo.txt
+head: es muy parecido al comando cat. También nos permite visualizar el contenido de nuestros archivos, pero debemos indicarle cuántas líneas nos debe mostrar. Por defecto nos mostrará las primeras 10.
+# primeras 10 líneas
+> head archivo.txt
+# primeras 20 líneas
+> head -n 20 archivo.txt
+tail: funciona igual que el comando head, pero al revés. También debemos indicarle cuántas líneas nos debe mostrar, la diferencia es que no las mostrará de abajo hacia arriba. Por defecto nos mostrará las últimas 10.
+# últimas 10 líneas
+> tail archivo.txt
+# últimas 5 líneas
+> tail -n 5 archivo.txt
+
+Búsqueda y tratamiento de texto
+No solo podemos visualizar nuestros archivos (o parte de nuestros archivos) tal cual como escribimos, también podemos filtrar y cambiar el contenido que podemos ver en los archivos.
+Por ejemplo: imagina que tenemos un archivo gigante, con cientos o incluso miles de líneas. Si imprimieramos el contenido de todo el archivo sería muy difícil encontrar el nombre de una persona o elemento específico.
+Y se vuelve aún más complicado si necesitamos que las palabras que buscamos cumplan ciertas condiciones, como solo mayúsculas o minúsculas, que la siguiente o anterior palabra cumpla ciertas condiciones, etc.
+En estos casos podemos utilizar el comando grep para filtrar las líneas que queremos visualizar utilizando (o no) expresiones regulares:
+grep “palabra-clave” archivo_gigante.txt
+Si nos da igual si la palabra clave incluye mayúsculas o minúsculas podemos utilizar el flag -i:
+grep -i “pAlaBra-cLAvE” archivo_gigante.txt
+También podemos verificar si la línea incluye esta palabra clave al final:
+grep “palabra-clave$” archivo_gigante.txt
+O si la incluye al principio:
+grep “^palabra-clave” archivo_gigante.txt
+También hay situaciones donde necesitamos modificar un poco la información que obtenemos de un archivo de texto.
+Por ejemplo, imagina que nuestro archivo contiene un poema, frase o saludo para responderle a los usuarios de nuestra aplicación. El problema es que cada usuario tiene un nombre diferente.
+}¡Hola, NOMBRE_USUARIO! Felicitaciones por completar tu desafío con PUNTOS_USUARIO puntos.
+No queremos editar este archivo. Solo necesitamos cambiar los caracteres NOMBRE_USUARIO por el verdadero nombre del usuario.
+Para esto podemos utilizar el comando sed. Solo debemos indicarle que queremos realizar una sustitución (s/), la palabra que vamos a cambiar (NOMBRE_USUARIO), la nueva palabra que vamos a incluir (Ana) y cerrar con el símbolo /.
+> sed ‘s/NOMBRE_USUARIO/Ana/’ archivo-saludo.txt
+Ahora imagina que, además del nombre, debemos cambiar también la puntuación que obtuvo el usuario:
+> sed ‘s/NOMBRE_USUARIO/Ana/; s/PUNTOS_USUARIO/35/’ archivo-saludo.txt
+Puedes ver muchos más usos del comando sed en este tutorial: https://likegeeks.com/es/sed-de-linux/.
+Reportar un problema
+Comunicación entre procesos: Qué son y cómo se utilizan los flujos estándar
+
+& = ejecuta un comando en segundo plano, y Ctrl Z para salir.
+fg = Trae a primer plano un comando que se este ejecutando en segundo plano
+ps = muestra procesos que se estan ejecutando
+ps -ax = muestra procesos que se estan ejecutando en el sistema
+top = muestra de forma interactiva como los procesos cambian en tiempo real.
+kill -9 *numero del proceso* = manda señales a un proceso para que se detenga
+                               (-9 significa maxima prioridad)kill
+killall -9 *nombre del proceso* = termina un proceso con el nombre del mismo.
+
+chmod = cambia permisos en el sistema.
+        chmod 700 archivo.txt = siempre esta el dueño, grupos, otros;en el mismo orden. x (ejecutar) vale 1, w (es
+        cribir) vale 2, r (leer) = vale 4.
+       
+sudo = Se pueden ejecutar comandos que solo haria un root.
+       sudo chown *nuevo nombre propietario* *nombre de archivo*  = cambia el propietario de ese archivo
+       sudo chgrp *nuevo nombre de grupo* *nombre de archivo* = cambia el grupo de ese archivo
+
+APT INSTALADOR DE PAQUETES Y PIP INSTALADOR DE PAQUETES PYTHON.
+
+Archivos .gz:
+Comprimir: gzip archivo.txt
+Descomprimir: gzip -d archivo.txt.gz
+ 
+
+Archivos .tar:
+Empaquetar: tar cf paquete.tar /carpeta/a/empaquetar/
+Ver contenido del paquete: tar tf paquete.tar
+Empaquetar y ver contenido empaquetado: tar -cvf paquete.tar /carpeta/a/empaquetar/
+Desempaquetar: tar xf paquete.tar
+ 
+
+Archivos .tar.gz:
+Empaquetar y Comprimir: tar czf empaquetado.tar.gz /carpeta/a/empaquetar/y/comprimir
+Descomprimir: tar xzf archivo.tar.gz
+
+          Find un comando con mucho poder 
+find [ruta][expresión_de_búsqueda][acción]
+Ruta
+Si no se indica una ruta se toma en cuenta entonces el directorio donde se este actualmente, es decir el directorio de trabajo actual, que es lo mismo que indicar con un punto “.”.
+Es posible asignar mas de una ruta de búsqueda también como por ejemplo
+find /etc /usr /var -groupadmin
+         Búsquedas básicas 
+       Algunas banderas que podemos utilizar para buscar:
+-name = Busca nombre de un archivo
+iname = Igual que name pero este no toma en consideración si tiene alguna mayúscula
+-user = El usuario propietario
+-group = El grupo propietario
+-type = tipo de archivo, f para directorios
+       Búsquedas a través del tiempo 
+-mmin = Tiempo en minutos
+-mtime = Periodos de 24 horas
+
+-exec; El poder aumenta 
+-exec Permite ejecutar acciones sobre el resultado de cada línea o archivo devuelto por find, ejemplo:
+find . type -f mtime +7 -exec cp {} ./backup/ \;
+
+wget = descarga archivos binarios
+curl = para conectarse a servidores
+
+export = crea variable de entorno para guardar comandos, etc.
+
+at now +2 minutes = programa un comando en el tiempo, pueden ser horas, dias, etc.
+
+crontab -e = programa comandos pero de forma mas compleja
