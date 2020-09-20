@@ -15,8 +15,40 @@ class InstaBot:
         self.password = password
         self.bot = webdriver.Firefox()
         self.variable1 = variable1
+    
+    def window_label(self):
+        hashtags = []
+        root = Tk()
+        def plus_hashtags():
+            hashtag = my_scraper.get()
+            if len(hashtag) > 1:
+                 hashtags.append(str(hashtag))
+            else:
+                my_scraper.insert(0, "Introduce hashtags de un 2 caracteres o mas")
+            my_scraper.delete(0, END)
+            print(hashtags)
 
-    def login(self):
+            ready_button = Button (root, text = "Listo", padx = 15, pady = 2, command = ready_func)
+            ready_button.grid(row = 1, column = 2)
+        
+        def ready_func():
+            root.destroy()
+            self.penetrating(hashtags)
+        
+
+        my_text = Label(root, text = "Introduce Hashtags")
+        my_scraper = Entry(root, width = 25, borderwidth = 5)
+        ready_button = Button (root, text = "Listo", padx = 15, pady = 2, state = DISABLED )
+        plus_button = Button (root, text = "Agregar", padx = 15, pady = 2,  command = plus_hashtags)
+
+        ready_button.grid(row = 1, column = 2)
+        plus_button.grid (row = 1, column = 1)
+        my_text.grid(row = 0, column = 0, columnspan = 3)
+        my_scraper.grid(row = 1, column = 0)
+
+        root.mainloop()
+    
+    def penetrating(self, hashtags):
         bot = self.bot
         bot.get("https://www.instagram.com/accounts/login/")
         time.sleep(4)
@@ -24,9 +56,6 @@ class InstaBot:
         bot.find_element_by_id("email").send_keys(self.username)
         bot.find_element_by_id("pass").send_keys(self.password + Keys.RETURN)
         time.sleep(9)
-
-    def hashtag(self, hashtags):
-        bot = self.bot
         bot.get("https://www.instagram.com/explore/tags/"+hashtags[0]+"/")
         time.sleep(6)
         self.__get_image(3, hashtags, third_iterator)
@@ -60,7 +89,9 @@ class InstaBot:
         respuesta = str(input("Quieres terminar y/n?: "))
 
         if respuesta.lower() == "y":
-            return 
+            bot.quit()
+            self.tkinter_image()
+            return
 
         third_iterator += 1
         if third_iterator == len(hashtags):
@@ -119,17 +150,14 @@ class InstaBot:
                 row += 1
 
         root.mainloop()
-        self.__delete_photos()
+        
 
-    def __delete_photos(self):
-        files = glob.glob('C://Users//Kaiz//Desktop//Programacion//visualstudio//modulo.py//proyectos//Scraper//Photos')
-        for f in files:
-            os.remove(f)
+
+    
 
 third_iterator = 0
 #TIPOS DE HASHTAGS
-hashtags = ["news", "tragic", "covid"]
+#hashtags = ["news", "tragic", "covid"]
 ed = InstaBot ("thiagochiesa2010@hotmail.com","flamigera123", 0)
-ed.login()
-ed.hashtag(hashtags)
-ed.tkinter_image()
+ed.window_label()
+#ed.tkinter_image()
