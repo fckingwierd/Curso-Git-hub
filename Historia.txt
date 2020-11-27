@@ -1,9 +1,1 @@
-Tsl,sadladsl,asdlasd,lñsl,sadladsl,asdlsasd,lhiago chiesa
-17 años
-<<<<<<< HEAD
-zxzxzxczczcczxxzczxzxcxcx|zcccxxxccy negro y lindo
-=======
-soy negsdasdro y lindo
-benja ramosasodkpokpsadkoslcladkpokspaddassdoksdaokdasokakosdkodsakoasdkosadkosadoksdaoksdakoskadoksdokds
-soy feo y negro
->>>>>>> e70e57ed1cea82f596e77011655364deb68b06f1
+print ("Hola")
