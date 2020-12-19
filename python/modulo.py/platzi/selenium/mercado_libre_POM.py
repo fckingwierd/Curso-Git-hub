@@ -4,6 +4,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 from time import sleep
+
 class MercadoLibrePom:
     def __init__ (self, bot, url):
         self._bot = bot
@@ -82,5 +83,7 @@ class MercadoLibrePom:
             product_list[i].append(name_list[i])
             product_list[i].append(price_list[i])
             product_list[i].append(href_list[i])
+
+        self._bot.Dispose()
 
         return product_list
