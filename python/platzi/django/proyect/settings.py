@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     #Local_apps
-    'webs', 
+    'posts', 
+    'users',
 ]
 
 MIDDLEWARE = [
@@ -75,13 +76,14 @@ WSGI_APPLICATION = 'proyect.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
+        'ENGINE': 'django.db.backends.mysql',
         'NAME':'django',
-        'USER':'localhost',
+        'USER':'root',
         'PASSWORD':'Zedmainlas1',
-        'HOST':'C:/ProgramData/MySQL/MySQL Server 5.6/Data',
+        'HOST':'127.0.0.1', #C:/ProgramData/MySQL/MySQL Server 5.6/Data
         'PORT':'3306'
     }
 }
