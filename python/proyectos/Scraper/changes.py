@@ -4,17 +4,19 @@ from selenium.webdriver.common.keys import Keys
 from tkinter import *
 from PIL import ImageTk, Image
 from tkinter import ttk
+from tkinter.font import Font
 import time
 import wget
 import os
 import glob
 
 class InstaBot:
-    def __init__(self,username,password, variable1):
+    def __init__(self,username,password, photo_counter=0, hashtag_iterator=0):
         self.username = username
         self.password = password
         self.bot = webdriver.Firefox()
-        self.variable1 = variable1
+        self.photo_counter = photo_counter
+        self.hashtag_iterator = hashtag_iterator 
     
     def window_label(self):
         hashtags = []
@@ -50,92 +52,106 @@ class InstaBot:
         bot = self.bot
         bot.get("https://www.instagram.com/accounts/login/")
         time.sleep(4)
+
         bot.find_element_by_class_name("KPnG0").click() 
+        time.sleep(4)
+
         bot.find_element_by_id("email").send_keys(self.username)
         bot.find_element_by_id("pass").send_keys(self.password + Keys.RETURN)
         time.sleep(9)
-        bot.get("https://www.instagram.com/explore/tags/"+hashtags[0]+"/")
-        time.sleep(6)
-        self.__get_image(3, hashtags, third_iterator)
 
-    def __get_image(self, amount, hashtags, third_iterator):
+        bot.get("https://www.instagram.com/explore/tags/"+hashtags[0]+"/")
+        time.sleep(3)
+
+        self.__get_image(hashtags)
+
+    def __get_image(self, hashtags):
+        bot = self.bot
+
         root = Tk()
         root.title("Photos")
-        bot = self.bot
-        iterator = 0
-        second_iterator = 0
-        image_url = []
 
-        while second_iterator <= amount:
-            bot.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(4)
-            second_iterator += 1
-    
+        image_url = []
         image_container = bot.find_elements_by_class_name("FFVAD")
 
-        for iterator in range(len(image_container) - 1):
-            variable = image_container[iterator]
-            second_variable = variable.get_attribute("src")
-            image_url.append(second_variable)
-            iterator += 1
+        for i in range(len(image_container) - 1):
+            image_structure = image_container[i]
+            image = image_structure.get_attribute("src")
+            image_url.append(image)
 
         def administration():
-            global answer
-            answer = idk2.get()
-            if len(answer) == 0:
-                idk2.insert(0, "Tienes que poner un valor numérico")
+            global quantity
+            quantity = my_entry.get()
+            if len(quantity) == 0:
+                my_entry.insert(0, "Tienes que poner un valor numérico")
 
             else:
                 root.destroy()
-                answer = int(answer)
-                self.__download_image(image_url, answer)
+                quantity = int(quantity)
+                self.__download_image(image_url, quantity, hashtags[self.hashtag_iterator])
 
     
-        idk = Label(root, text = f"Hay {len(image_url)} posibles descargas en el hashtag \nCuantas fotos quieres descargar? ")
-        idk2 = Entry(root, width = 25, borderwidth = 5)
-        idk3 = Button (root, text = "Okey", padx = 15, pady = 2, command = administration )
+        my_text = Label(root, text = f"Hay {len(image_url)} posibles descargas en el hashtag \nCuantas fotos quieres descargar? ")
+        my_entry = Entry(root, width = 25, borderwidth = 5)
+        ready_button = Button (root, text = "Okey", padx = 15, pady = 2, command = administration )
 
-        idk.grid(row = 0, column = 0)
-        idk2.grid(row = 1, column = 0)
-        idk3.grid(row = 1, column= 1)
+        my_text.grid(row = 0, column = 0)
+        my_entry.grid(row = 1, column = 0)
+        ready_button.grid(row = 1, column= 1)
 
         root.mainloop()
 
-
-        
-        
-        
         print("\nDescarga completa")
-        print (f"Se han registrado {answer} descargas en el hashtag '{hashtags[third_iterator]}'. ")
+        print (f"Se han registrado {quantity} descargas en el hashtag '{hashtags[self.hashtag_iterator]}'. ")
         respuesta = str(input("Quieres terminar y/n?: "))
 
         if respuesta.lower() == "y":
             bot.quit()
-            self.tkinter_image()
+            self.tkinter_image(hashtags)
+
+            files = glob.glob('e:/proyecto/python/Scraper/Photos/*')
+            for f in files:
+                os.remove(f)
+
             return
+ 
+        self.hashtag_iterator += 1
 
-        third_iterator += 1
-        if third_iterator == len(hashtags):
-            third_iterator = 0
+        if self.hashtag_iterator == len(hashtags):
+            self.hashtag_iterator = 0
 
-        bot.get(f"https://www.instagram.com/explore/tags/{hashtags[third_iterator]}/")
-        time.sleep(6)
-        self.__get_image(3, hashtags, third_iterator)
+        bot.get(f"https://www.instagram.com/explore/tags/{hashtags[self.hashtag_iterator]}/")
+        time.sleep(3)
+        self.__get_image(hashtags)
 
-    def __download_image(self, image_url, quantity):
+
+
+    def __download_image(self, image_url, quantity, hashtag):
         for i in range(len(image_url) - 1):
             if i == quantity:
                 break
-            self.variable1 += 1
-            wget.download(image_url[i], f"C://Users//Kaiz//Desktop//Programacion//visualstudio//modulo.py//proyectos//Scraper//Photos//{self.variable1}.png")
-    
-    def tkinter_image(self):
+            self.photo_counter += 1
+            wget.download(image_url[i], f'E://proyecto//python//proyectos//Scraper//Photos//{self.photo_counter}.png')
+
+
+    def tkinter_image(self, hashtags):
+        bot = self.bot
+        hashtag = str()
+
+        for idx, i in enumerate (hashtags):
+            if idx == len(hashtags) - 1:
+                hashtag += ''.join(i)
+
+            else:
+                hashtag += ''.join(i + ', ' )
+
         root = Tk()
-        root.title("Instagram Scraper")
+        root.title(f'hashtags: ' + hashtag)
+
         image_list = []
-        i = 0
-        row = 0
+        row = 1
         column = 0
+        i = 0
 
         main_frame = Frame(root)
         main_frame.pack(fill=BOTH, expand = 1)
@@ -156,11 +172,11 @@ class InstaBot:
         while True:
             try: 
                 i += 1
-                thing = ImageTk.PhotoImage(Image.open(f"C://Users//Kaiz//Desktop//Programacion//visualstudio//modulo.py//proyectos//Scraper//Photos//{i}.png"))
-                image_list.append(thing)
+                image = ImageTk.PhotoImage(Image.open(f'E://proyecto//python//proyectos//Scraper//Photos//{i}.png'))
+                image_list.append(image)
 
             except FileNotFoundError:
-                break
+                break 
 
         for photos in range(len(image_list)):
             my_image = Label(second_frame, image = image_list[photos])
@@ -169,10 +185,10 @@ class InstaBot:
             if column > 2:
                 column = 0
                 row += 1
+        
 
         root.mainloop()
     
 
-third_iterator = 0
-ed = InstaBot ("thiagochiesa2010@hotmail.com","flamigera123", 0)
+ed = InstaBot ("thiagochiesa2010@hotmail.com","flamigera123")
 ed.window_label()

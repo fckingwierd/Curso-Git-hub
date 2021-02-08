@@ -42,3 +42,1756 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1606272879642	Marionette	WARN	TLS certificate errors will be ignored for this session
 Exiting due to channel error.
 Exiting due to channel error.
+1611971126962	geckodriver	INFO	Listening on 127.0.0.1:4924
+1611971130027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileZJXsKz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611971134182	Marionette	INFO	Listening on port 4932
+1611971134259	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611971134270	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611971171330	Marionette	ERROR	[35] No reply from Marionette:Register
+[Parent 592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611971196193	Marionette	INFO	Stopped listening on port 4932
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611971198636	geckodriver	INFO	Listening on 127.0.0.1:5008
+1611971201687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile4ebR8D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611971206382	Marionette	INFO	Listening on port 5016
+1611971206412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611971206422	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611971248360	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+1611971305259	Marionette	INFO	Stopped listening on port 5016
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611971331310	geckodriver	INFO	Listening on 127.0.0.1:5116
+1611971334341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilebf8qBo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611971338518	Marionette	INFO	Listening on port 5124
+1611971338570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611971338582	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611971364835	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 38: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 38: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005)
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005)
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611971412287	Marionette	INFO	Stopped listening on port 5124
+1611972575193	geckodriver	INFO	Listening on 127.0.0.1:5321
+1611972578244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileTOmNUt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611972583257	Marionette	INFO	Listening on port 5329
+1611972583679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611972583694	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611972612938	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 2752, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611973715685	Marionette	INFO	Stopped listening on port 5329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+te errors will be ignored for this session
+1611973343242	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611973374446	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+[Parent 3248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611973465079	Marionette	INFO	Stopped listening on port 5467
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611973593900	geckodriver	INFO	Listening on 127.0.0.1:5574
+1611973596947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileg2QMJQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611973602118	Marionette	INFO	Listening on port 5582
+1611973602180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611973602192	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611973642788	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 13200, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611973647351	Marionette	INFO	Stopped listening on port 5582
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611973708044	geckodriver	INFO	Listening on 127.0.0.1:5649
+1611973711108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilerIGVak"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611973716732	Marionette	INFO	Listening on port 5657
+1611973716847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611973716858	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://activity-stream/lib/ASRouter.j1611973840066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilekftuFp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611973844831	Marionette	INFO	Listening on port 5739
+1611973845379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611973845393	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://activity-stream/lib/ASRouter.j1611973940688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote1611973941983	Marionette	INFO	Stopped listening on port 5739
+
+###!!! [Chilconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611973945975	Marionette	INFO	Listening on port 5837
+1611973945997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611973946008	Marionette	ERROR	[15] No reply from Marionette:Register
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1611974000711	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 10444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611977286485	Marionette	INFO	Stopped listening on port 5837
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611987792962	geckodriver	INFO	Listening on 127.0.0.1:7550
+1611987810482	geckodriver	INFO	Listening on 127.0.0.1:7555
+1611987813749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileWhirGP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1611987845202	Marionette	INFO	Listening on port 7563
+1611987846779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611987846867	Marionette	ERROR	[15] No reply from Marionette:Register
+1611987868348	Marionette	INFO	Stopped listening on port 7563
+1611988933290	geckodriver	INFO	Listening on 127.0.0.1:7637
+1611988936322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileCYRZLu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611988940946	Marionette	INFO	Listening on port 7645
+1611988941119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611988941129	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611988978942	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611988999927	Marionette	INFO	Stopped listening on port 7645
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611989005270	geckodriver	INFO	Listening on 127.0.0.1:7724
+1611989008333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileEJ5HJ5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611989013029	Marionette	INFO	Listening on port 7732
+1611989013107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611989013116	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouter.j1611989068709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile62NmPT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611989073089	Marionette	INFO	Listening on port 7793
+1611989073492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611989073506	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611989119768	Marionette	ERROR	[35] No reply from Marionette:Register
+1611989205613	Marionette	INFO	Stopped listening on port 7793
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611989207440	geckodriver	INFO	Listening on 127.0.0.1:7881
+1611989210463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileUtgeAO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611989215271	Marionette	INFO	Listening on port 7889
+1611989215757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611989215768	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611989282345	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 12352, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611990037637	Marionette	INFO	Stopped listening on port 7889
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+6245	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: https://www.instagram.com/accounts/login/, line 265: Error: Requiring unknown module "19267588".
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 7620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611989711488	Marionette	INFO	Stopped listening on port 8006
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611990032357	geckodriver	INFO	Listening on 127.0.0.1:8095
+1611990035382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileH9KOOc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611990040867	Marionette	INFO	Listening on port 8104
+1611990041148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611990041157	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611990075247	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 7520, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611990180097	Marionette	INFO	Stopped listening on port 8104
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611990182429	geckodriver	INFO	Listening on 127.0.0.1:8197
+1611990185445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile6hXT59"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611990190865	Marionette	INFO	Listening on port 8205
+1611990191220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611990191233	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611990269498	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1611990504805	Marionette	INFO	Stopped listening on port 8205
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1611990525722	geckodriver	INFO	Listening on 127.0.0.1:8305
+1611990528802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile2WIpdH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611990534461	Marionette	INFO	Listening on port 8313
+1611990534576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611990534590	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611990570708	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/07a1cc56129e.js, line 1309: OZ_NETWORK: Network failure.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 8396, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1611990682782	Marionette	INFO	Stopped listening on port 8313
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612303087990	geckodriver	INFO	Listening on 127.0.0.1:13597
+1612303091140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileSExnNt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1612303116623	Marionette	INFO	Listening on port 13605
+1612303117260	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612303117313	Marionette	ERROR	[15] No reply from Marionette:Register
+1612303157213	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: , line 0: uncaught exception: Object
+[Parent 8172, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612304412298	Marionette	INFO	Stopped listening on port 13605
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612304074907	Marionette	INFO	Listening on port 13773
+1612304075475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612304075485	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612304115334	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612304413296	Marionette	INFO	Stopped listening on port 13773
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+", "(unknown module)"))
+1612304261414	Marionette	INFO	Listening on port 13904
+1612304261469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612304261480	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612304296975	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 1048, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612304411231	Marionette	INFO	Stopped listening on port 13904
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612304672601	geckodriver	INFO	Listening on 127.0.0.1:14004
+1612304675646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileE2Y8Xp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612304680880	Marionette	INFO	Listening on port 14012
+1612304681376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612304681387	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612304757196	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: resource://activity-stream/lib/ASRouter.js1612304865643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile2eziOz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612304871194	Marionette	INFO	Listening on port 14137
+1612304871375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612304871386	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612304940946	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 11960, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/iconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612305060225	Marionette	INFO	Listening on port 14249
+1612305060701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612305060713	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612305111011	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://activity-stream/lib/ASRouter.js1612305167835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilevPIcNv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612305173732	Marionette	INFO	Listening on port 14357
+1612305174123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612305174135	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612305231065	Marionette	ERROR	[35] No reply from Marionette:Register
+1612305327976	Marionette	INFO	Stopped listening on port 14357
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612305380717	geckodriver	INFO	Listening on 127.0.0.1:14461
+1612305383733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileJY7hQB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612305388754	Marionette	INFO	Listening on port 14469
+1612305389007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612305389017	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612305453633	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+1612305533778	Marionette	INFO	Stopped listening on port 14469
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 5012, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612305584306	geckodriver	INFO	Listening on 127.0.0.1:14587
+1612305587338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileWAVLV2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612305591671	Marionette	INFO	Listening on port 14595
+1612305592133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612305592143	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612305623182	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+1612305681726	Marionette	INFO	Stopped listening on port 14595
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612306045741	geckodriver	INFO	Listening on 127.0.0.1:14688
+1612306048789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile7vFomj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612306053566	Marionette	INFO	Listening on port 14696
+1612306054335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612306054352	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612306094090	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 38: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 38: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005)
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005)
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1612306127387	Marionette	INFO	Stopped listening on port 14696
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612306755126	geckodriver	INFO	Listening on 127.0.0.1:14795
+1612306758142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileSjP32V"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612306762859	Marionette	INFO	Listening on port 14803
+1612306762922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612306762935	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612306868667	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.js1612306987416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileFtzIsU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612306992700	Marionette	INFO	Listening on port 14900
+1612306993210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612306993223	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612307062266	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+1612307401822	Marionette	INFO	Stopped listening on port 14900
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612307832735	geckodriver	INFO	Listening on 127.0.0.1:1135
+1612307835752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileYq8KLo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612307841717	Marionette	INFO	Listening on port 1143
+1612307842054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612307842066	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612307877004	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f47c39a0d92f.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+JavaScript error: resource://activity-stream/lib/ASRouter.j1612308025660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofiledeLLn9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612308030607	Marionette	INFO	Listening on port 1262
+1612308030965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612308030979	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612308102566	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 16860, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612308412320	Marionette	INFO	Stopped listening on port 1262
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612377185903	geckodriver	INFO	Listening on 127.0.0.1:4754
+1612377188916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileWNtfRn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612377209542	Marionette	INFO	Listening on port 4762
+1612377210594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612377210656	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612377251157	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: , line 0: uncaught exception: Object
+1612377329018	Marionette	INFO	Stopped listening on port 4762
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612377354628	geckodriver	INFO	Listening on 127.0.0.1:4866
+1612377357706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilelL4Smu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612377362241	Marionette	INFO	Listening on port 4874
+1612377362492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612377362507	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612377394073	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612377413063	Marionette	ERROR	[37] No reply from Marionette:Register
+1612377437417	Marionette	INFO	Stopped listening on port 4874
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612377901137	geckodriver	INFO	Listening on 127.0.0.1:4963
+1612377904230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilezitonu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612377908481	Marionette	INFO	Listening on port 4971
+1612377908504	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612377908514	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612377952465	Marionette	ERROR	[35] No reply from Marionette:Register
+[Child 16636, MediaDecoderStateMachine #1] WARNING: Decoder=1546c6acc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SkipAccessPointPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoSkipToNextRandomAccessPoint(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612377983278	Marionette	INFO	Stopped listening on port 4971
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612378036603	geckodriver	INFO	Listening on 127.0.0.1:5058
+1612378039604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile8cFDry"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612378043549	Marionette	INFO	Listening on port 5066
+1612378043848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612378043859	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612378083584	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612378116029	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612378224804	Marionette	INFO	Stopped listening on port 5066
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612378225257	geckodriver	INFO	Listening on 127.0.0.1:5172
+1612378228328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileBCNIez"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612378232847	Marionette	INFO	Listening on port 5180
+1612378233125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612378233138	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612378261833	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612378292609	Marionette	INFO	Stopped listening on port 5180
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612378300454	geckodriver	INFO	Listening on 127.0.0.1:5260
+1612378303486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofiled20oZb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612378309014	Marionette	INFO	Listening on port 5268
+1612378309262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612378309271	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612378334517	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+1612378375128	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 15428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612378421061	Marionette	INFO	Stopped listening on port 5268
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612378433766	geckodriver	INFO	Listening on 127.0.0.1:5358
+1612378436782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile7NLGNF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612378442246	Marionette	INFO	Listening on port 5366
+1612378442600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612378442610	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612378467276	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�N�
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�N�
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612378627830	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+1612378638535	Marionette	ERROR	[41] No reply from Marionette:Register
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612380295943	Marionette	INFO	Stopped listening on port 5366
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+atic/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+[Parent 10376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612378780260	Marionette	INFO	Stopped listening on port 5462
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612378781145	geckodriver	INFO	Listening on 127.0.0.1:5555
+1612378784190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilemskTYj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612378789290	Marionette	INFO	Listening on port 5563
+1612378789499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612378789511	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612378815089	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612378861428	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 11716, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612378889423	Marionette	INFO	Stopped listening on port 5563
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612378893106	geckodriver	INFO	Listening on 127.0.0.1:5678
+1612378896186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilexjcwBP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612378901274	Marionette	INFO	Listening on port 5686
+1612378901452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612378901467	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612378940548	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:��
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:��
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+1612378960843	Marionette	INFO	Stopped listening on port 5686
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 6172, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612378994132	geckodriver	INFO	Listening on 127.0.0.1:5769
+1612378997277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofiledgIHHd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612379001860	Marionette	INFO	Listening on port 5777
+1612379002066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612379002076	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612379025087	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�-
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�-
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://activity-stream/lib/ASRouter.j1612379064585	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilet90Zo2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612379070974	Marionette	INFO	Listening on port 5878
+1612379071498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612379071508	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612379096972	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�-
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�-
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+1612379106092	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/ASRouter.j1612379477701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileqNB26k"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612379482791	Marionette	INFO	Listening on port 5991
+1612379482983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612379482999	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612379521991	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612379538512	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612379551882	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612379747993	Marionette	INFO	Stopped listening on port 5991
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612379764502	geckodriver	INFO	Listening on 127.0.0.1:6085
+1612379767586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileJrdvXd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612379773060	Marionette	INFO	Listening on port 6093
+1612379773357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612379773367	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612379799787	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:>��
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:>��
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+1612379813286	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612379824753	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612379864614	Marionette	INFO	Stopped listening on port 6093
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612379870566	geckodriver	INFO	Listening on 127.0.0.1:6179
+1612379873590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileeO2MFN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612379878982	Marionette	INFO	Listening on port 6187
+1612379879364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612379879378	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612379919772	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612379944790	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612380085725	Marionette	INFO	Stopped listening on port 6187
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612380120284	geckodriver	INFO	Listening on 127.0.0.1:6272
+1612380123342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilejBogJK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380127865	Marionette	INFO	Listening on port 6282
+1612380128083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612380128093	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380153547	Marionette	ERROR	[35] No reply from Marionette:Register
+1612380173335	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[Child 6664, MediaDecoderStateMachine #1] WARNING: Decoder=22609419c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 11032, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612380228292	Marionette	INFO	Stopped listening on port 6282
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612380293494	geckodriver	INFO	Listening on 127.0.0.1:6377
+1612380296552	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilemobAXn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380301683	Marionette	INFO	Listening on port 6385
+1612380301885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612380301893	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380330638	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+1612380344914	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612380364690	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612380411348	Marionette	INFO	Stopped listening on port 6385
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612380427354	geckodriver	INFO	Listening on 127.0.0.1:6484
+1612380430421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileGpKrco"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380435930	Marionette	INFO	Listening on port 6492
+1612380436203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612380436214	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380462534	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612380485673	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612380520305	Marionette	INFO	Stopped listening on port 6492
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612380529981	geckodriver	INFO	Listening on 127.0.0.1:6578
+1612380533029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileqCF0Ji"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380541195	Marionette	INFO	Listening on port 6586
+1612380541398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612380541409	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380566841	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612380579449	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/ASRouter.j1612380644517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileoYV08W"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380649979	Marionette	INFO	Listening on port 6678
+1612380650287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612380650303	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380678071	Marionette	ERROR	[35] No reply from Marionette:Register
+1612380698325	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612380735252	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 6484, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612380812174	Marionette	INFO	Stopped listening on port 6678
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612380814858	geckodriver	INFO	Listening on 127.0.0.1:6782
+1612380817889	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilegchnxY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380823518	Marionette	INFO	Listening on port 6790
+1612380823677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612380823687	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380846472	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612380865416	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612380893300	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612380943283	Marionette	INFO	Stopped listening on port 6790
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612380948184	geckodriver	INFO	Listening on 127.0.0.1:6880
+1612380951263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileuIPArN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380956212	Marionette	INFO	Listening on port 6888
+1612380956576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612380956587	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612380988212	Marionette	ERROR	[35] No reply from Marionette:Register
+1612381025126	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612381045202	Marionette	ERROR	[37] No reply from Marionette:Register
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child3/domwalker25, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:546:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:57:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:112:18\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nunmanage@resource://devtools/shared/protocol/Front.js:168:37\ndestroy@resource://devtools/shared/protocol/Pool.js:167:14\nbaseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:103:13\ndestroy@resource://devtools/shared/protocol/Front.js:67:10\ndestroy@resource://devtools/client/fronts/inspector.js:91:11\n_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:603:17\n", "resource://devtools/shared/protocol/Front.js", 99))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612381111050	Marionette	INFO	Stopped listening on port 6888
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612381121149	geckodriver	INFO	Listening on 127.0.0.1:6976
+1612381124150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile2VfoGm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612381128792	Marionette	INFO	Listening on port 6984
+1612381128944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612381128962	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612381162569	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612381182956	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612381203805	Marionette	INFO	Stopped listening on port 6984
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612381242742	geckodriver	INFO	Listening on 127.0.0.1:7082
+1612381245774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile0yKZei"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612381250151	Marionette	INFO	Listening on port 7090
+1612381250611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612381250622	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612381270196	Marionette	INFO	Stopped listening on port 7090
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612381272739	geckodriver	INFO	Listening on 127.0.0.1:7133
+1612381275775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilerEVaNZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612381281208	Marionette	INFO	Listening on port 7141
+1612381281992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612381282011	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612381313005	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612381347086	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 15720, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612381375807	Marionette	INFO	Stopped listening on port 7141
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612381376323	geckodriver	INFO	Listening on 127.0.0.1:7253
+1612381379405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile4LERBn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612381384853	Marionette	INFO	Listening on port 7261
+1612381385166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612381385177	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612381434893	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+1612381451992	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 14304, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612381484307	Marionette	INFO	Stopped listening on port 7261
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612381500167	geckodriver	INFO	Listening on 127.0.0.1:7341
+1612381503209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile0RF78E"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612381507577	Marionette	INFO	Listening on port 7349
+1612381507950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612381507966	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612381563844	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612382046182	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612382063345	Marionette	ERROR	[37] No reply from Marionette:Register
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1086"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1086:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:912:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1086, column: 0
+console.error: ({})
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2241))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612382316530	Marionette	INFO	Stopped listening on port 7349
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612382323576	geckodriver	INFO	Listening on 127.0.0.1:7457
+1612382326624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileutyYG0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612382332049	Marionette	INFO	Listening on port 7465
+1612382332429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612382332440	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612382362368	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:v�w�
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:v�w�
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612382375420	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612382420652	Marionette	INFO	Stopped listening on port 7465
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612382426848	geckodriver	INFO	Listening on 127.0.0.1:7546
+1612382429990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilehmaoCn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612382434665	Marionette	INFO	Listening on port 7554
+1612382434774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612382434786	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612382462786	Marionette	ERROR	[35] No reply from Marionette:Register
+1612382471503	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 16648, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612382475324	Marionette	INFO	Stopped listening on port 7554
+1612382481421	geckodriver	INFO	Listening on 127.0.0.1:7622
+1612382484469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilePmiWkX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612382488998	Marionette	INFO	Listening on port 7630
+1612382489303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612382489314	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612382519541	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+1612382534034	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612382561578	Marionette	INFO	Stopped listening on port 7630
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 16444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612382886738	geckodriver	INFO	Listening on 127.0.0.1:7794
+1612382889767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile8cFRzX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612382894474	Marionette	INFO	Listening on port 7802
+1612382894550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612382894561	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612382931495	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 38: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 38: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005)
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005)
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+1612382944400	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612383187448	Marionette	INFO	Stopped listening on port 7802
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612383202518	geckodriver	INFO	Listening on 127.0.0.1:7892
+1612383205566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofiletFrZyt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612383210674	Marionette	INFO	Listening on port 7900
+1612383210849	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612383210861	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 7196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612383320007	Marionette	INFO	Stopped listening on port 7900
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612383324952	geckodriver	INFO	Listening on 127.0.0.1:7943
+1612383327999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileFgvyOg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612383333324	Marionette	INFO	Listening on port 7951
+1612383333765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612383333777	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612383368515	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612383381210	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 38: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 38: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:!L'�
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:!L'�
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612383394611	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[Child 15608, MediaDecoderStateMachine #1] WARNING: Decoder=1faee30e400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 15464, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612383431239	Marionette	INFO	Stopped listening on port 7951
+1612383434335	geckodriver	INFO	Listening on 127.0.0.1:8025
+1612383437430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileg86QBp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612383443020	Marionette	INFO	Listening on port 8033
+1612383443220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612383443232	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612383468687	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�m�G
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�m�G
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+1612383484664	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[Child 14580, MediaDecoderStateMachine #1] WARNING: Decoder=28e3db76c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+1612383601852	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612383795871	Marionette	INFO	Stopped listening on port 8033
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612383800977	geckodriver	INFO	Listening on 127.0.0.1:8126
+1612383804072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileLRzRMG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612383809318	Marionette	INFO	Listening on port 8134
+1612383809844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612383809856	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612383843921	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612383860253	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 17196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612383885303	Marionette	INFO	Stopped listening on port 8134
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612383889434	geckodriver	INFO	Listening on 127.0.0.1:8241
+1612383892497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileONKML0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612383897152	Marionette	INFO	Listening on port 8249
+1612383897275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612383897285	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612383929706	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612383940514	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 14084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612383966721	Marionette	INFO	Stopped listening on port 8249
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612383968006	geckodriver	INFO	Listening on 127.0.0.1:8340
+1612383971085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilehQYOl8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612383976532	Marionette	INFO	Listening on port 8348
+1612383976879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612383976892	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612384023896	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+1612384074415	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612384087036	Marionette	ERROR	[37] No reply from Marionette:Register
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 8776, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612384114390	Marionette	INFO	Stopped listening on port 8348
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612384120518	geckodriver	INFO	Listening on 127.0.0.1:8445
+1612384123534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileWRFNyK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612384128416	Marionette	INFO	Listening on port 8453
+1612384128800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612384128812	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612384175838	Marionette	ERROR	[35] No reply from Marionette:Register
+1612384190990	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[Child 2280, MediaDecoderStateMachine #1] WARNING: Decoder=1af82d05400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+[Child 2280, MediaDecoderStateMachine #1] WARNING: Decoder=1af82d05400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3465
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 16764, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612384255863	Marionette	INFO	Stopped listening on port 8453
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612384289398	geckodriver	INFO	Listening on 127.0.0.1:8529
+1612384292461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileuNUkDg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612384297220	Marionette	INFO	Listening on port 8537
+1612384297263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612384297274	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612384339784	Marionette	ERROR	[35] No reply from Marionette:Register
+1612384354011	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612384368016	Marionette	INFO	Stopped listening on port 8537
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612396280968	geckodriver	INFO	Listening on 127.0.0.1:8996
+1612396284235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileKtMDRK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612396306804	Marionette	INFO	Listening on port 9004
+1612396308231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612396308291	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612396345723	Marionette	ERROR	[35] No reply from Marionette:Register
+1612396374851	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612396421938	Marionette	INFO	Stopped listening on port 9004
+[Parent 1428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612396428889	geckodriver	INFO	Listening on 127.0.0.1:9108
+1612396431921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileYRMmUS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612396436783	Marionette	INFO	Listening on port 9116
+1612396437202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612396437212	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612396463982	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612396477048	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612396510525	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1612396528325	Marionette	INFO	Stopped listening on port 9116
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 10164, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612397963929	geckodriver	INFO	Listening on 127.0.0.1:9842
+1612397966991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilevBLPBd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612397971705	Marionette	INFO	Listening on port 9850
+1612397971728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612397971740	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612398011803	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�Wg
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�Wg
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1612398038342	Marionette	INFO	Stopped listening on port 9850
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612398040813	geckodriver	INFO	Listening on 127.0.0.1:9934
+1612398043839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilelDs45k"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612398048806	Marionette	INFO	Listening on port 9944
+1612398049813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612398049826	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612398093426	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612398111318	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612398131867	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 12548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612398219344	Marionette	INFO	Stopped listening on port 9944
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612398237355	geckodriver	INFO	Listening on 127.0.0.1:10033
+1612398240402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileNyl3p5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612398245037	Marionette	INFO	Listening on port 10041
+1612398245135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612398245146	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612398300717	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612398312109	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 14016, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1612398336769	Marionette	INFO	Stopped listening on port 10041
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612398341832	geckodriver	INFO	Listening on 127.0.0.1:10120
+1612398344868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileGR0R2g"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612398350378	Marionette	INFO	Listening on port 10128
+1612398350600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612398350617	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612398411926	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�	��
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�	��
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612398437386	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612398466935	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612398489344	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612398505802	Marionette	INFO	Stopped listening on port 10128
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612398761770	geckodriver	INFO	Listening on 127.0.0.1:10232
+1612398764824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofileRT6AXe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612398769416	Marionette	INFO	Listening on port 10240
+1612398769744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612398769754	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612398788956	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612398801095	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612398819688	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612398836096	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612398844914	Marionette	INFO	Stopped listening on port 10240
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612399089327	geckodriver	INFO	Listening on 127.0.0.1:10333
+1612399092339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofile27fvMJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612399096780	Marionette	INFO	Listening on port 10341
+1612399097320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612399097327	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612399135175	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612399148331	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612399165772	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612399173916	Marionette	INFO	Stopped listening on port 10341
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612399241157	geckodriver	INFO	Listening on 127.0.0.1:10431
+1612399244208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilehlDC9L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612399248833	Marionette	INFO	Listening on port 10439
+1612399248983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612399248994	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612399276809	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 4: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 10: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/instagram/login_sync/, line 11: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+1612399287614	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612399306179	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612399312531	Marionette	INFO	Stopped listening on port 10439
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 8256, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612399404895	geckodriver	INFO	Listening on 127.0.0.1:10521
+1612399407949	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Kaiz\\AppData\\Local\\Temp\\rust_mozprofilej8yrkW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612399412411	Marionette	INFO	Listening on port 10529
+1612399412742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612399412753	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612399442042	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript error: , line 0: TypeError: Error in body stream
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_NETWORK: Network failure.
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�qT�
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:�qT�
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:����
+JavaScript warning: https://www.instagram.com/static/bundles/es6/oz-player.main.js/7dced560a8e6.js, line 29: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: NS_ERROR_FAILURE (0x80004005) - virtual mozilla::MediaResult __cdecl mozilla::MP4ContainerParser::IsInitSegmentPresent(const mozilla::MediaSpan &): Invalid Top-Level Box:����
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/26eb722314a8.js, line 1310: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 453: TypeError: this.contentWindow is null
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 569: TypeError: this.contentWindow is null
+1612399455356	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1612399467095	Marionette	INFO	Stopped listening on port 10529
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 299: InvalidStateError: JSWindowActorChild.contentWindow getter: Cannot access property 'contentWindow' after actor 'PictureInPictureToggle' has been destroyed
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
